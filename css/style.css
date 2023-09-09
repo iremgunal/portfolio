@@ -64,6 +64,10 @@ body {
     font-weight: 700;
 
 }
+.logo{
+    position: absolute;
+    top: 10px;
+}
 
 /* --- */
 .header-shape {
@@ -80,7 +84,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 70px;
+    margin-top: 100px;
 }
 
 .content .left h3 {
@@ -107,6 +111,7 @@ body {
 
 .content .right img {
     margin-left: 300px ;
+    width: 400px;
 }
 /* icons */
 .icons {
